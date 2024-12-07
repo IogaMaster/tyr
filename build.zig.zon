@@ -1,0 +1,11 @@
+.{
+    .name = "my-odin-library",
+    .version = "0.0.1",
+    .paths = .{
+        "submodules",
+        "build.zig",
+        "build.zig.zon",
+    },
+
+    .dependencies = .{},
+}

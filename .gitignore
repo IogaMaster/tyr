@@ -1,0 +1,7 @@
+# Nix
+result*
+
+# Misc
+.direnv
+
+.zig-cache
